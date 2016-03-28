@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void loadImages() {
-        //Reload old vers.
+
         ImageView img1 = (ImageView) findViewById(R.id.image1);
         ImageView img2 = (ImageView) findViewById(R.id.image2);
         Picasso.with(this).load("http://savepic.ru/9117399.png").into(img1);
