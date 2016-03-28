@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task1</string>
+    <string name="creationTime">creationTime</string>
+    <string name="organizationType">Municipal services</string>
+    <string name="workStatus">In work</string>
+    <string name="DateOfCreation">25 february 2016</string>
+    <string name="registrationText">Registered</string>
+    <string name="registrationDate">26 february 2016</string>
+    <string name="executeBeforeText">Execute before</string>
+    <string name="executeBeforeDate">29 february 2016</string>
+    <string name="responsibleText">Responsible</string>
+    <string name="responsible">Dnipropetrovsk MWT()</string>
+    <string name="describe">Open the door (near the billboard), turning the area on 18 and 19 trams at Prospect Mira with the Donetsk highway</string>
+    <string name="CreationText">Created</string>
+</resources>

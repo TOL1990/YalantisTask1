@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Завдання 1</string>
+    <string name="creationTime">Дата сворення</string>
+    <string name="organizationType">Комунальне господарство</string>
+    <string name="workStatus">В роботі</string>
+    <string name="DateOfCreation">25 лютого 2016</string>
+    <string name="registrationText">Зареєстровано</string>
+    <string name="registrationDate">26 лютого 2016</string>
+    <string name="executeBeforeText">Вирішити до</string>
+    <string name="executeBeforeDate">29 лютого 2016</string>
+    <string name="responsibleText">Відповідальний</string>
+    <string name="responsible">Дніпропетровський МВК()</string>
+    <string name="describe">Відкритий люк (біля рекламного щита), район повороту 18 і 19 трамваїв на проспект Миру з Донецького шосе</string>
+    <string name="CreationText">Створено</string>
+</resources>
