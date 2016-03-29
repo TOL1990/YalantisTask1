@@ -64,13 +64,13 @@
 
                 <TextView
                     style="@style/LeftColumnStyle"
-                    android:text="@string/CreationText"
-                    android:id="@+id/CreationText" />
+                    android:text="@string/creationText"
+                    android:id="@+id/creationText" />
 
                 <TextView
                     style="@style/RightColumnStyle"
-                    android:text="@string/DateOfCreation"
-                    android:id="@+id/DateOfCreation" />
+                    android:text="@string/dateOfCreation"
+                    android:id="@+id/dateOfCreation" />
 
             </LinearLayout>
 

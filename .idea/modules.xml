@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Task1-387295fa28e872be9e856796527361c30908114c.iml" filepath="$PROJECT_DIR$/Task1-387295fa28e872be9e856796527361c30908114c.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YalantisTask1.iml" filepath="$PROJECT_DIR$/YalantisTask1.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
